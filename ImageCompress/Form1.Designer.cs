@@ -50,7 +50,7 @@
             this.ClientSize = new System.Drawing.Size(596, 425);
             this.Controls.Add(this.outputPictureBox);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Image";
             ((System.ComponentModel.ISupportInitialize)(this.outputPictureBox)).EndInit();
             this.ResumeLayout(false);
 
